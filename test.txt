@@ -1,0 +1,117 @@
+May 27 16:16:42 vika-VirtualBox kernel: [    0.000000] Linux version 5.8.0-53-generic (buildd@lcy01-amd64-012) (gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 (Ubuntu 5.8.0-53.60~20.04.1-generic 5.8.18)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.8.0-53-generic root=UUID=88993762-7081-4c33-8abf-020058bf2439 ro quiet splash
+May 27 16:16:42 vika-VirtualBox kernel: [    0.000000] KERNEL supported cpus:
+May 27 16:16:42 vika-VirtualBox kernel: [    0.000000]   Intel GenuineIntel
+--
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233511] ACPI: Added _OSI(Processor Device)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233511] ACPI: Added _OSI(3.0 _SCP Extensions)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233512] ACPI: Added _OSI(Processor Aggregator Device)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233512] ACPI: Added _OSI(Linux-Dell-Video)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233513] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.233513] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.235076] ACPI: 2 ACPI AML tables successfully acquired and loaded
+May 27 16:16:42 vika-VirtualBox kernel: [    0.236273] ACPI: Interpreter enabled
+May 27 16:16:42 vika-VirtualBox kernel: [    0.236280] ACPI: (supports S0 S5)
+--
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316230] usbcore: registered new interface driver usbfs
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316234] usbcore: registered new interface driver hub
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316239] usbcore: registered new device driver usb
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316253] pps_core: LinuxPPS API ver. 1 registered
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316254] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316255] PTP clock support registered
+May 27 16:16:42 vika-VirtualBox kernel: [    0.316291] EDAC MC: Ver: 3.0.0
+--
+May 27 16:16:42 vika-VirtualBox kernel: [    0.475726] ACPI: Sleep Button [SLPF]
+May 27 16:16:42 vika-VirtualBox kernel: [    0.476543] battery: ACPI: Battery Slot [BAT0] (battery present)
+May 27 16:16:42 vika-VirtualBox kernel: [    0.476577] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+May 27 16:16:42 vika-VirtualBox kernel: [    0.477562] Linux agpgart interface v0.103
+May 27 16:16:42 vika-VirtualBox kernel: [    0.478608] loop: module loaded
+May 27 16:16:42 vika-VirtualBox kernel: [    0.478715] ata_piix 0000:00:01.1: version 2.13
+May 27 16:16:42 vika-VirtualBox kernel: [    0.479027] scsi host0: ata_piix
+--
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537629] usb usb1: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.08
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537630] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537631] usb usb1: Product: OHCI PCI host controller
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537631] usb usb1: Manufacturer: Linux 5.8.0-53-generic ohci_hcd
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537632] usb usb1: SerialNumber: 0000:00:06.0
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537709] hub 1-0:1.0: USB hub found
+May 27 16:16:42 vika-VirtualBox kernel: [    0.537719] hub 1-0:1.0: 12 ports detected
+--
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (--) Log file renamed from "/home/vika/.local/share/xorg/Xorg.pid-752.log" to "/home/vika/.local/share/xorg/Xorg.0.log"
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: X.Org X Server 1.20.9
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: X Protocol Version 11, Revision 0
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: Build Operating System: Linux 4.15.0-130-generic x86_64 Ubuntu
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: Current Operating System: Linux vika-VirtualBox 5.8.0-53-generic #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 x86_64
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.8.0-53-generic root=UUID=88993762-7081-4c33-8abf-020058bf2439 ro quiet splash
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: Build Date: 17 January 2021  09:13:31AM
+May 27 16:16:43 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: xorg-server 2:1.20.9-2ubuntu1.2~20.04.1 (For technical support please see http://www.ubuntu.com/support)
+--
+May 27 16:16:44 vika-VirtualBox systemd[676]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) Initializing extension XVideo
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) Initializing extension XVideo-MotionCompensation
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) Initializing extension SELinux
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) SELinux: Disabled on system
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) Initializing extension GLX
+May 27 16:16:44 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[752]: (II) AIGLX: Screen 0 is not DRI2 capable
+May 27 16:16:44 vika-VirtualBox dbus-daemon[754]: [session uid=1000 pid=754] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+--
+May 27 18:06:42 vika-VirtualBox dbus-daemon[535]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 27 18:06:42 vika-VirtualBox systemd[1]: Started Network Manager Script Dispatcher Service.
+May 27 18:06:52 vika-VirtualBox systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+May 27 18:44:11 vika-VirtualBox kernel: [    0.000000] Linux version 5.8.0-53-generic (buildd@lcy01-amd64-012) (gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 (Ubuntu 5.8.0-53.60~20.04.1-generic 5.8.18)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.8.0-53-generic root=UUID=88993762-7081-4c33-8abf-020058bf2439 ro quiet splash
+May 27 18:44:11 vika-VirtualBox kernel: [    0.000000] KERNEL supported cpus:
+May 27 18:44:11 vika-VirtualBox kernel: [    0.000000]   Intel GenuineIntel
+--
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422807] ACPI: Added _OSI(Processor Device)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422808] ACPI: Added _OSI(3.0 _SCP Extensions)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422809] ACPI: Added _OSI(Processor Aggregator Device)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422811] ACPI: Added _OSI(Linux-Dell-Video)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422812] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.422814] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+May 27 18:44:11 vika-VirtualBox kernel: [    0.430074] ACPI: 2 ACPI AML tables successfully acquired and loaded
+May 27 18:44:11 vika-VirtualBox kernel: [    0.434805] ACPI: Interpreter enabled
+May 27 18:44:11 vika-VirtualBox kernel: [    0.434822] ACPI: (supports S0 S5)
+--
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558601] usbcore: registered new interface driver usbfs
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558611] usbcore: registered new interface driver hub
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558619] usbcore: registered new device driver usb
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558651] pps_core: LinuxPPS API ver. 1 registered
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558652] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558655] PTP clock support registered
+May 27 18:44:11 vika-VirtualBox kernel: [    0.558738] EDAC MC: Ver: 3.0.0
+--
+May 27 18:44:11 vika-VirtualBox kernel: [    1.221658] ACPI: Sleep Button [SLPF]
+May 27 18:44:11 vika-VirtualBox kernel: [    1.223062] battery: ACPI: Battery Slot [BAT0] (battery present)
+May 27 18:44:11 vika-VirtualBox kernel: [    1.223111] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+May 27 18:44:11 vika-VirtualBox kernel: [    1.224820] Linux agpgart interface v0.103
+May 27 18:44:11 vika-VirtualBox kernel: [    1.226608] loop: module loaded
+May 27 18:44:11 vika-VirtualBox kernel: [    1.226782] ata_piix 0000:00:01.1: version 2.13
+May 27 18:44:11 vika-VirtualBox kernel: [    1.227226] scsi host0: ata_piix
+--
+May 27 18:44:11 vika-VirtualBox kernel: [    1.290891] usb usb1: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.08
+May 27 18:44:11 vika-VirtualBox kernel: [    1.290894] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May 27 18:44:11 vika-VirtualBox kernel: [    1.290895] usb usb1: Product: OHCI PCI host controller
+May 27 18:44:11 vika-VirtualBox kernel: [    1.290897] usb usb1: Manufacturer: Linux 5.8.0-53-generic ohci_hcd
+May 27 18:44:11 vika-VirtualBox kernel: [    1.290898] usb usb1: SerialNumber: 0000:00:06.0
+May 27 18:44:11 vika-VirtualBox kernel: [    1.291039] hub 1-0:1.0: USB hub found
+May 27 18:44:11 vika-VirtualBox kernel: [    1.291057] hub 1-0:1.0: 12 ports detected
+--
+May 27 18:44:14 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (--) Log file renamed from "/home/vika/.local/share/xorg/Xorg.pid-747.log" to "/home/vika/.local/share/xorg/Xorg.0.log"
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: X.Org X Server 1.20.9
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: X Protocol Version 11, Revision 0
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: Build Operating System: Linux 4.15.0-130-generic x86_64 Ubuntu
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: Current Operating System: Linux vika-VirtualBox 5.8.0-53-generic #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 x86_64
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.8.0-53-generic root=UUID=88993762-7081-4c33-8abf-020058bf2439 ro quiet splash
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: Build Date: 17 January 2021  09:13:31AM
+May 27 18:44:15 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: xorg-server 2:1.20.9-2ubuntu1.2~20.04.1 (For technical support please see http://www.ubuntu.com/support)
+--
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) Initializing extension X-Resource
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) Initializing extension XVideo
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) Initializing extension XVideo-MotionCompensation
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) Initializing extension SELinux
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) SELinux: Disabled on system
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) Initializing extension GLX
+May 27 18:44:16 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) AIGLX: Screen 0 is not DRI2 capable
+May 27 18:44:17 vika-VirtualBox /usr/lib/gdm3/gdm-x-session[747]: (II) IGLX: Loaded and initialized swrast
+Binary file (standard input) matches
